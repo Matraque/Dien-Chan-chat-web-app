@@ -1,6 +1,6 @@
 const translation = {
   common: {
-    welcome: 'Welcome to use',
+    welcome: 'Welcome to',
     appUnavailable: 'App is unavailable',
     appUnkonwError: 'App is unavailable',
   },
@@ -21,7 +21,7 @@ const translation = {
     privacyPolicyMiddle:
       'privacy policy',
     privacyPolicyRight:
-      ' provided by the app developer.',
+      ' (La politique de confidentialité ira ici)',
   },
   errorMessage: {
     valueOfVarRequired: 'Variables value can not be empty',
